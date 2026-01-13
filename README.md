@@ -1,16 +1,123 @@
-## Hi there 👋
+# 👋 Hi, I’m Abhishek
 
-<!--
-**abr-c0de/abr-c0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Developer (React + ASP.NET Core)**  
+🎓 Self-taught | Learning by building real-world projects  
+💻 Passionate about building clean, scalable, end-to-end applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I’m a self-taught **full-stack developer** who enjoys building complete applications — from **React frontends** to **ASP.NET Core Web APIs**.
+
+I focus on:
+- Writing **clean, maintainable code**
+- Understanding **application architecture**
+- Building secure and scalable backend APIs
+- Creating responsive, component-based frontend UIs
+
+I learn best by **building, experimenting, and refactoring** as my understanding grows.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Frontend
+- React
+- JavaScript (ES6+)
+- HTML, CSS
+- API integration & component-based UI
+
+### 🔹 Backend
+- ASP.NET Core Web API
+- C#
+- RESTful API design
+- Entity Framework Core
+- JWT Authentication & Authorization
+- Clean code & layered structure
+
+### 🔹 Services
+- Firebase (Authentication, Firestore)
+
+### 🔹 Tools & Practices
+- Git & GitHub
+- Clean code principles
+- Scalable project structuring
+- README-driven documentation
+- Debugging & problem-solving
+
+---
+
+## ⭐ Notable Projects
+
+### 🔹 Netflix Clone (React + TMDB API)
+A React-based frontend application that consumes the TMDB API.
+
+**Highlights:**
+- React component architecture
+- External API integration (TMDB)
+- Dynamic UI rendering
+- Responsive design concepts
+
+---
+
+### 🔹 Blog Application (React + Firebase)
+A full-stack blog application built with React and Firebase.
+
+**Highlights:**
+- User authentication using Firebase Auth
+- Data storage with Firestore
+- Full frontend–backend integration
+- Deployment using Firebase Hosting
+
+---
+
+### 🔹 GameStore.Api (ASP.NET Core Web API)
+A production-style backend API focused on clean architecture and security.
+
+**Highlights:**
+- JWT Authentication & Authorization
+- Clean and maintainable code structure
+- Global exception handling
+- Scalable API design
+- Focus on backend best practices
+
+---
+
+### 🔹 PokemonReview.Api (ASP.NET Core Web API)
+A REST API designed to practice relational data modeling and clean code.
+
+**Highlights:**
+- Table relationships using Entity Framework Core
+- Clean and readable codebase
+- Structured API endpoints
+- Focus on data integrity and design
+
+---
+
+## 📈 What I’m Currently Improving
+
+- Building more **production-ready full-stack applications**
+- Strengthening backend security & authorization
+- Improving frontend architecture in React
+- Writing scalable, maintainable code
+- Better system design and integration
+
+---
+
+## 🎯 Career Goal
+
+I’m preparing for a **Junior / Mid Full-Stack Developer** role where I can:
+- Work on real production systems
+- Grow across frontend and backend development
+- Contribute to clean, scalable applications
+
+---
+
+## 📫 Let’s Connect
+
+- GitHub: https://github.com/abr-c0de
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.
