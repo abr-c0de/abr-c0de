@@ -123,8 +123,8 @@ I’m preparing for a **Junior / Mid Full-Stack Developer** role where I can:
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.
 
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abr-c0de&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abr-c0de&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abr-c0de)](https://git.io/streak-stats)
